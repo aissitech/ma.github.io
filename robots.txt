@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mbarbetti.github.io/sitemap.xml
+Sitemap: https://ma.github.io/sitemap.xml
